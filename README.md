@@ -2,21 +2,20 @@
 
 🚀 **DevOps Engineer em formação | Cloud AWS | IaC | CI/CD | Observabilidade**
 
-Sou entusiasta de **DevOps, SRE, e FinOps**, com foco em automação, confiabilidade e eficiência de infraestrutura em nuvem.  
-Tenho experiência prática com **AWS**, containers e aprimorando minhas habilidades em pipelines CI/CD e Infraestrutura como Código, sempre buscando ambientes escaláveis, seguros e com controle de custos.
+Sou um profissional em desenvolvimento na área **Cloud, DevOps e FinOps**, com foco em automação, confiabilidade e eficiência de infraestrutura em nuvem.  
+Tenho experiência prática com **AWS**, containers e estou aprimorando minhas habilidades em pipelines CI/CD e Infraestrutura como Código, sempre buscando ambientes escaláveis, seguros e com controle de custos.
 
 ---
 
 ## 🧠 Áreas de Atuação
-- DevOps & Cloud Engineering  
-- Site Reliability Engineering (SRE)  
+- DevOps & Cloud Engineering    
 - Automação de infraestrutura  
 - Observabilidade & Monitoramento  
-- FinOps (otimização de custos em nuvem)  
+- FinOps  
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Ferramentas
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -52,37 +51,31 @@ Tenho experiência prática com **AWS**, containers e aprimorando minhas habilid
 ## 📜 Certificações
 - AWS Cloud Practitioner ☁️  
 
-🎯 **Em andamento / Planejadas**
+🎯 **Em andamento**
 - AWS Solutions Architect Associate  
 - AWS Developer Associate  
-- Terraform Associate  
 - FinOps Certified Practitioner  
-- Linux Essentials  
-- CKA (Kubernetes)  
-
+ 
 ---
 
-## 📂 Projetos
-🔧 Neste GitHub você encontrará projetos focados em:
+## 📂 Neste GitHub você encontrará projetos focados em:
 - Provisionamento de infraestrutura com Terraform
-- Deploy de aplicações em Kubernetes (EKS)
+- Deploy de aplicações em Kubernetes 
 - Pipelines CI/CD
 - Monitoramento e observabilidade
 - Automação com scripts
 
-*(Sempre buscando simular cenários reais de produção)*
-
+Sempre buscando simular cenarios reais.
 ---
 
 ## 📈 Objetivo Profissional
-Atuar como **DevOps / SRE**, contribuindo para ambientes resilientes, escaláveis e eficientes, com forte cultura de automação, observabilidade e melhoria contínua.
+Atuar na area de cloud como **DevOps/ FinOps**, buscando contribuir na otimização de custos, e em ambientes resilientes, escaláveis e eficientes, com forte cultura de automação, observabilidade e melhoria contínua
 
 ---
 
 ## 📫 Contato
-- 💼 LinkedIn: *(adicione o link aqui)*
-- 📧 Email: *(opcional)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/isaquesebastiao/*
+- 📧 Email: *isaquesebastiao99@gmail.com*
 
----
-⭐ *Se curtir algum projeto, fique à vontade para dar um star!*
+
 
