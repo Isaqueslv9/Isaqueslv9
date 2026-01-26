@@ -1,16 +1,88 @@
-## Hi there 👋
+# Olá, eu sou o Isaque Sebastião
 
-<!--
-**Isaqueslv9/Isaqueslv9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer em formação | Cloud AWS | IaC | CI/CD | Observabilidade**
 
-Here are some ideas to get you started:
+Sou entusiasta de **DevOps, SRE, e FinOps**, com foco em automação, confiabilidade e eficiência de infraestrutura em nuvem.  
+Tenho experiência prática com **AWS**, containers e aprimorando minhas habilidades em pipelines CI/CD e Infraestrutura como Código, sempre buscando ambientes escaláveis, seguros e com controle de custos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Áreas de Atuação
+- DevOps & Cloud Engineering  
+- Site Reliability Engineering (SRE)  
+- Automação de infraestrutura  
+- Observabilidade & Monitoramento  
+- FinOps (otimização de custos em nuvem)  
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🏗️ Infraestrutura como Código
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 🐳 Containers & Orquestração
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔄 CI/CD
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 📊 Observabilidade
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+### 🧑‍💻 Linguagens & Sistema
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+---
+
+## 📜 Certificações
+- AWS Cloud Practitioner ☁️  
+
+🎯 **Em andamento / Planejadas**
+- AWS Solutions Architect Associate  
+- AWS Developer Associate  
+- Terraform Associate  
+- FinOps Certified Practitioner  
+- Linux Essentials  
+- CKA (Kubernetes)  
+
+---
+
+## 📂 Projetos
+🔧 Neste GitHub você encontrará projetos focados em:
+- Provisionamento de infraestrutura com Terraform
+- Deploy de aplicações em Kubernetes (EKS)
+- Pipelines CI/CD
+- Monitoramento e observabilidade
+- Automação com scripts
+
+*(Sempre buscando simular cenários reais de produção)*
+
+---
+
+## 📈 Objetivo Profissional
+Atuar como **DevOps / SRE**, contribuindo para ambientes resilientes, escaláveis e eficientes, com forte cultura de automação, observabilidade e melhoria contínua.
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: *(adicione o link aqui)*
+- 📧 Email: *(opcional)*
+
+---
+⭐ *Se curtir algum projeto, fique à vontade para dar um star!*
+
