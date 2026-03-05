@@ -56,22 +56,22 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
  
 ---
 
-## 📂 Neste GitHub você encontrará projetos focados em:
+## Neste repositorio você encontrará projetos focados em:
 - Provisionamento de infraestrutura com Terraform
 - Deploy de aplicações em Kubernetes 
 - Pipelines CI/CD
 - Monitoramento e observabilidade
 - Automação com scripts
 
-Sempre buscando simular cenarios reais.
+Sempre buscando simular cenarios reais
 ---
 
-## 📈 Objetivo Profissional
+## Objetivo Profissional
 Atuar na area de cloud como **DevOps/ FinOps**, buscando contribuir na otimização de custos, e em ambientes resilientes, escaláveis e eficientes, com forte cultura de automação, observabilidade e melhoria contínua
 
 ---
 
-## 📫 Contato
+## Contato
 - 💼 LinkedIn: *https://www.linkedin.com/in/isaquesebastiao/*
 - 📧 Email: *isaquesebastiao99@gmail.com*
 
