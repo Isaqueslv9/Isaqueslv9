@@ -49,21 +49,6 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 ## 📜 Certificações
 - AWS Cloud Practitioner ☁️  
 
-🎯 **Em andamento**
-- AWS Solutions Architect Associate  
-- AWS Developer Associate  
-- FinOps Certified Practitioner  
- 
----
-
-## Neste repositorio você encontrará projetos focados em:
-- Provisionamento de infraestrutura com Terraform
-- Deploy de aplicações em Kubernetes 
-- Pipelines CI/CD
-- Monitoramento e observabilidade
-- Automação com scripts
-
-Sempre buscando simular cenarios reais
 ---
 
 ## Objetivo Profissional
