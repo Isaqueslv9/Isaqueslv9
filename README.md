@@ -7,14 +7,6 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 
 ---
 
-## 🧠 Áreas de Atuação
-- DevOps & Cloud Engineering    
-- Automação de infraestrutura  
-- Observabilidade & Monitoramento  
-- FinOps  
-
----
-
 ## 🛠️ Ferramentas
 
 ### ☁️ Cloud
