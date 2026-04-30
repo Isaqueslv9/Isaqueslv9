@@ -1,6 +1,6 @@
 # Olá, eu sou o Isaque Sebastião
 
-**DevOps Engineer em formação | Cloud AWS | IaC | CI/CD | Observabilidade**
+**DevOps Engineer | AWS | Docker| Kubernetes | IaC | CI/CD | Observabilidade**
 
 Sou um profissional em desenvolvimento na área **Cloud, DevOps e FinOps**, com foco em automação, confiabilidade e eficiência de infraestrutura em nuvem.  
 Tenho experiência prática com **AWS**, containers e estou aprimorando minhas habilidades em pipelines CI/CD e Infraestrutura como Código, sempre buscando ambientes escaláveis, seguros e com controle de custos.
@@ -40,11 +40,6 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 
 ## 📜 Certificações
 - AWS Cloud Practitioner ☁️  
-
----
-
-## Objetivo Profissional
-Atuar na area de cloud como **DevOps/ FinOps**, buscando contribuir na otimização de custos, e em ambientes resilientes, escaláveis e eficientes, com forte cultura de automação, observabilidade e melhoria contínua
 
 ---
 
