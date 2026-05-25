@@ -1,13 +1,13 @@
 # Olá, eu sou o Isaque Sebastião
 
-**DevOps Engineer | AWS | Docker| Kubernetes | IaC | CI/CD | Observabilidade**
+**DevOps Engineer | AWS | Docker | Kubernetes | IaC | CI/CD | Observabilidade**
 
 Sou um profissional em desenvolvimento na área **Cloud, DevOps e FinOps**, com foco em automação, confiabilidade e eficiência de infraestrutura em nuvem.  
 Tenho experiência prática com **AWS**, containers e estou aprimorando minhas habilidades em pipelines CI/CD e Infraestrutura como Código, sempre buscando ambientes escaláveis, seguros e com controle de custos.
 
 ---
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -24,7 +24,6 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 ### CI/CD
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Observabilidade
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -48,6 +47,3 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 ## Contato
 - 💼 LinkedIn: *https://www.linkedin.com/in/isaquesebastiao/*
 - 📧 Email: *isaquesebastiao99@gmail.com*
-
-
-
