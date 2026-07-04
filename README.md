@@ -39,7 +39,6 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 
 ## Certificações
 - AWS Cloud Practitioner
-## Em andamento
 - AWS IA Practitioner
 
 ---
