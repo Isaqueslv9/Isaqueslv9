@@ -38,10 +38,11 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 ---
 
 ## Certificações
-<p align="left">
+
   <img src="assets/certifications/cloud-practitioner.png" width="140">
   <img src="assets/certifications/ai-practitioner.png" width="140">
-</p>
+
+
 
 ---
 
