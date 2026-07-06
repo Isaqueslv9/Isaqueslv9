@@ -39,8 +39,8 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 
 ## Certificações
 <p align="left">
-  <img src="https://images.credly.com/size/220x220/images/6840d4d4-6d00-4f1c-bb5d-3f0f1d1b6d2d/image.png" alt="AWS Cloud Practitioner" width="140"/>
-  <img src="https://images.credly.com/size/220x220/images/4a4f68d8-3f7d-4f9a-b3f2-2b2b3a7d4f7b/image.png" alt="AWS AI Practitioner" width="140"/>
+  <img src="assets/certifications/cloud-practitioner.png" width="140">
+  <img src="assets/certifications/ai-practitioner.png" width="140">
 </p>
 
 ---
