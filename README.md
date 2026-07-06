@@ -39,8 +39,9 @@ Tenho experiência prática com **AWS**, containers e estou aprimorando minhas h
 
 ## Certificações
 
-  <img src="assets/certifications/cloud-practitioner.png" width="140">
-  <img src="assets/certifications/ai-practitioner.png" width="140">
+ ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+ ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 
