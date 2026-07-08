@@ -2,7 +2,8 @@
 
 **Cloud/DevOps | AWS | IaC | Docker | Kubernetes | CI/CD | DevSecOps | Observabilidade**
 
-Profissional de Cloud/DevOps com experiência prática em AWS — infraestrutura como código com Terraform e Ansible, pipelines CI/CD com camadas de segurança integradas (SAST, secret scanning, scan de containers) e observabilidade com Prometheus/Grafana.
+**Profissional de Cloud/DevOps com experiência prática em AWS — infraestrutura como código com Terraform e Ansible, pipelines CI/CD com camadas de segurança integradas (SAST, secret scanning, scan de containers) e observabilidade com Prometheus/Grafana.**
+
 ---
 
 ## Ferramentas
